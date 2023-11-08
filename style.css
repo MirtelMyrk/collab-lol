@@ -1,0 +1,23 @@
+h1 {
+    font-size: 150pt;
+    display: flex;
+    justify-content: center;
+}
+.p {
+    font-size: 40pt; 
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 0, 0);
+}
+button {
+    font-size: 50px;
+    padding: 50px;
+    font: italic;
+    color: beige;
+    background-color: blue;
+    border-radius: 20px;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
